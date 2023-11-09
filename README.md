@@ -1,6 +1,6 @@
 - 👋 Hello!
 - 👀 I’m interested in web development, UI/UX design, and games!
-- 🖥 Portfolio Website: https://www.paulsoonminchoi.com/
+- 🖥 Portfolio Website: https://www.paulsoonminchoi.com/  (Creating new)
 - 📫 How to reach me: paulsoonminchoi@gmail.com
 
 <!---
